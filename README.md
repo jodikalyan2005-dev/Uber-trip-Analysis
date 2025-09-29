@@ -47,6 +47,7 @@ Python: pandas, matplotlib, seaborn, scikit-learn (for simple time series foreca
 SQL: For preliminary data aggregation and queries.
 
 Visualization: Tableau, Power BI, or Altair/Plotly.
+![Code_Generated_Image (2)](https://github.com/user-attachments/assets/4b38c19d-9d7b-4871-8a73-2264bef66955)
 
 
 
